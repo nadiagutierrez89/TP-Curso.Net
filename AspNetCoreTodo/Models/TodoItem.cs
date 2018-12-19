@@ -6,8 +6,7 @@ namespace AspNetCoreTodo.Models
     public class TodoItem
     {
         public string UserId { get; set; }
-        public Guid Id { get; set; }
-        
+        public Guid Id { get; set; }   
 
         public bool IsDone { get; set; }
 
@@ -15,5 +14,15 @@ namespace AspNetCoreTodo.Models
         public string Title { get; set; }
 
         public DateTimeOffset? DueAt { get; set; }
+
+        public DateTime CreationTaskDate { get; set;}
+
+        public DateTime? ClosedTaskDate{
+            get;set;
+        }
+
+        public string UserCreateTask{
+            get;set;
+        }
     }
 }

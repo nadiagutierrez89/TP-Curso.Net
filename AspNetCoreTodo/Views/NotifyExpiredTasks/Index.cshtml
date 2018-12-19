@@ -1,0 +1,22 @@
+@using Humanizer
+
+@{
+    ViewData["Title"] = "Notify expired tasks to Users";
+}
+
+<div class="panel panel-default todo-panel">
+	<div class="panel-heading">@ViewData["Title"]</div>
+
+	<p><h4 style="text-align:center">Quiere enviar emails a los usuarios que tienen tareas vencidas y próximas a vencer?</h4></p>
+	 <div style="text-align:center">
+		<p><form asp-action="SendNotifications" method="POST">
+			</p>
+				<p><input type="submit" value="Enviar Notificaciones por Mail"></p>
+		</form>
+		
+      </div>
+
+	<div class="panel-footer">
+		<td>By Nadias Lab</td>
+	</div>
+</div>

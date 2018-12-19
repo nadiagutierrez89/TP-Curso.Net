@@ -1,0 +1,11 @@
+Carga OK
+[{"title":"PEPA","userId":"admin@mail.com"},{"title":"jugar a la play","userId":"admin@todo.local"}]
+
+Carga con error de usuario
+[{"title":"PEPA","userId":"admin@pail.com"},{"title":"jugar a la play","userId":"admin@todo.local"}]
+
+Carga con error de title
+[{"title":"PEPA","userId":"admin@pail.com"},{"title":"","userId":"admin@todo.local"}]
+
+Carga OK con vencidos
+[{"title":"Ir a la Fiesta YPF","userId":"serpientofhope@gmail.com", "DueAt":"2018-12-06 23:19:33.1425091-03:00"},{"title":"jugar a la play","userId":"serpientofhope@gmail.coml","DueAt":"2018-12-05 20:19:33.1425091-03:00"}]

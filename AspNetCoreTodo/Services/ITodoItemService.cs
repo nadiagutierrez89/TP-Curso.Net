@@ -9,8 +9,11 @@ namespace AspNetCoreTodo.Services {
         Task<TodoItem[]> GetIncompleteItemsAsync (
             ApplicationUser user);
 
-        Task<bool> AddItemAsync (TodoItem newItem, ApplicationUser user);
+        bool AddItems (IEnumerable<TodoItem> listItems, string creator);
+
+        Task<bool> AddItemAsync (TodoItem newItem, ApplicationUser user, string creator);
 
         Task<bool> MarkDoneAsync (Guid id, ApplicationUser user);
+        Task<TodoItem[]> GetItemsToSendMailAsync ();
     }
 }

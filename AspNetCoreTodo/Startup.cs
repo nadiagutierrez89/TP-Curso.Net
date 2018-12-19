@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using Quartz;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using AspNetCoreTodo.Data;
 using AspNetCoreTodo.Models;
 using AspNetCoreTodo.Services;
+using AspNetCoreTodo.Jobs;
 
 namespace AspNetCoreTodo
 {
@@ -41,8 +42,12 @@ namespace AspNetCoreTodo
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app,
+        IHostingEnvironment env,IApplicationLifetime lifetime)
         {
+            var quartz = new QuartzStartup();
+            lifetime.ApplicationStarted.Register(quartz.Start);
+            lifetime.ApplicationStopping.Register(quartz.Stop);
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

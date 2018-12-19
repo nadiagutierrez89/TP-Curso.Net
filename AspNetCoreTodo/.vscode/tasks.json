@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/AspNetCoreTodo/AspNetCoreTodo.csproj"
+                "${workspaceFolder}/AspNetCoreTodo.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

@@ -1,0 +1,26 @@
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\Nadias\source\repos\Curso.Net\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\dot NET\source\repos\TP-Curso.Net\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
